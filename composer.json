@@ -1,0 +1,21 @@
+{
+    "name": "peatrevo/yii2-mylogstorage",
+    "description": "My Log Storage",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "peatrevo",
+            "email": "peatrevo@me.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "peatrevo\\mylogstorage\\": ""
+        }
+    }
+}
